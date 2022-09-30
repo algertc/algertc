@@ -35,7 +35,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/charliealgert"><img src='https://img.shields.io/badge/Charlie_Algert-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=0072B1&color=0072B1&'
-width="100%" height="100%">
+width="65%" height="65%">
 
 </a>
 </p>
