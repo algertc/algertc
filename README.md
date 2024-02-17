@@ -2,7 +2,7 @@
 <div align="center">
   
 ## 📝 &nbsp;About
-Interested in Data Engineering, Infrastructure/Platform Engineering, Distributed Systems, MLops, etc. 
+**Interested in Data Engineering, Infrastructure/Platform Engineering, Distributed Systems, MLops, etc.**
 
 
 -------------------
