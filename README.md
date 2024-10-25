@@ -4,7 +4,7 @@
 ## 📝 &nbsp;About
 **Interested in Infrastructure/Platform Engineering, Distributed Systems, Data Engineering, MLops, etc.**
 <br/>
-**I'm also a licensed radio technician and have been honing my EE skills recently, working on some SF area digital radio decoding and archives.**
+**I've also been honing my EE skills recently, working on some SF area digital radio decoding and archives.**
 
 
 -------------------
