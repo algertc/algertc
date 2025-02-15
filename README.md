@@ -2,9 +2,8 @@
 <div align="center">
   
 ## 📝 &nbsp;About
-**Interested in Infrastructure/Platform Engineering, Distributed Systems, Data Engineering, MLops, etc.**
+**Interested in HPC Infrastructure, Distributed Systems, Data Engineering, MLops, Computer Vision, RF, etc.**
 <br/>
-**I've also been honing my EE skills recently, working on some SF area digital radio decoding and archives.**
 
 
 -------------------
