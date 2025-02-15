@@ -18,13 +18,6 @@
   
 -------------------
 
-  <p align="center">
-    <a href="https://github.com/algertc">
-      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=algertc&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs" style="margin: 0 20 0 20"/>
-      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=algertc&theme=radical&include_all_commits=true&count_private=true"/>
-    </a>
-  </p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
